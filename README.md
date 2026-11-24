@@ -31,6 +31,7 @@
 | Proje | Ne gösteriyor? | Teknolojiler |
 | --- | --- | --- |
 | **[Lilumi.Art](https://github.com/Berkaybadur/Lilumi.Art)** | El yapımı sanat ürünleri için e-ticaret platformu: Clean Architecture, MVC arayüz + REST API, JWT/Cookie karma kimlik doğrulama, Shopier ürün içe aktarma, SMTP bildirimleri | .NET 10 · ASP.NET Core · MongoDB · Docker |
+| **[CatalogSearch](https://github.com/Berkaybadur/CatalogSearch)** | E-ticaret ürün katalog servisi: MongoDB (doğruluk kaynağı), Elasticsearch ile tam metin arama, Redis cache-aside, RabbitMQ/MassTransit ile asenkron indeksleme | .NET 10 · Elasticsearch · Redis · RabbitMQ · MongoDB |
 | **[EventSourcing](https://github.com/Berkaybadur/EventSourcing)** | Event Sourcing + CQRS referansı: aggregate'ler, MongoDB tabanlı event store (optimistic concurrency), read-model projeksiyonu, 19 test | .NET 10 · Minimal API · MongoDB · MSTest |
 | **[JWTExample](https://github.com/Berkaybadur/JWTExample)** | JWT kimlik doğrulama referansı: refresh token rotasyonu, rol bazlı yetki, admin impersonation, entegrasyon testleri | .NET 10 · ASP.NET Core · MSTest · Scalar |
 | **[SPark](https://github.com/Berkaybadur/SPark)** | Kullanıcı kaydı + JWT API'si: Identity parola hash'leme, benzersiz kullanıcı adı indeksi, korumalı uç noktalar | .NET 10 · MongoDB · JWT |
